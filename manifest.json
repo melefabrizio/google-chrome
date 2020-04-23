@@ -1,7 +1,7 @@
 {
    "description": "Chrome Dracula scheme color theme",
    "manifest_version": 2,
-   "name": "Dracula Chrome Theme - Dark and Minimal",
+   "name": "Dracula Chrome Theme v2 - Dark and Minimal",
    "version": "1.1",
     "icons": {
       "16": "images/icon16.png",
@@ -12,8 +12,8 @@
       "colors": {
         "frame": [40,42,54],
         "frame_inactive": [40,42,66,0.6],
-        "frame_incognito": [0,0,0,0.8],
-        "frame_incognito_inactive": [0,0,0,0.6],
+        "frame_incognito": [21,22,27],
+        "frame_incognito_inactive": [21,22,27,0.6],
         "toolbar": [68,71,90],
         "tab_text": [248,248,248],
         "tab_background_text": [248,248,248],
@@ -28,25 +28,21 @@
         "ntp_section_link": [0,0,0],
         "ntp_section_link_underline": [0,0,0],
         "control_background":[255,255,255],
-        "button_background":[0,0,0]
+        "button_background":[0,0,0],
+        "background_tab": [40,42,54]
       },
       "tints": {
         "frame": [255,255,0],
         "frame_inactive": [255,0,0],
         "frame_incognito": [255,0,0],
         "frame_incognito_inactive": [255,0,0],
-        "background_tab": [255,0,0],
-        "buttons": [1, 1, 1]
+        "buttons": [1, 0.5, 1]
       },
       "properties": {
         "ntp_background_alignment": "",
         "ntp_background_repeat": "",
         "ntp_logo_alternate": ""
-      },
-     "images": {
-       "theme_button_background": "images/theme_button_background.png",
-       "theme_tab_background": "images/theme_tab_background.png",
-	   "theme_frame": "images/theme_tab_background.png"
-     }
+      }
+     
    }
 }

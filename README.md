@@ -1,8 +1,10 @@
-# Dracula for [Google Chrome](https://chrome.google.com/webstore/detail/dracula-chrome-theme-dark/gfapcejdoghpoidkfodoiiffaaibpaem)
+# Dracula for Google Chrome
+> A dark theme for Google Chrome.
 
-> A dark theme for [Google Chrome](https://chrome.google.com/webstore/detail/dracula-chrome-theme-dark/gfapcejdoghpoidkfodoiiffaaibpaem).
+A darker version of the original Dracula theme for chrome by [Nick](https://github.com/nickimola).
 
 ![Screenshot](./screenshot.png)
+![Incognito Mode Screenshot](./screenshot-incognito.png)
 
 ## Install
 
@@ -10,11 +12,11 @@ All instructions can be found at [draculatheme.com/chrome](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/orgs/dracula/people)
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/orgs/dracula/people). This is a fork of the original [Dracula for Google Chrome](https://github.com/dracula/google-chrome).
 
-[![Nick](https://avatars2.githubusercontent.com/u/9289704?v=3&s=70)](https://github.com/ukarim) |
+[![Fabrizio Mele](https://avatars2.githubusercontent.com/u/9076837?v=3&s=70)](https://github.com/ukarim) |
 --- |
-[Nick](https://github.com/nickimola)|
+[Fabrizio](https://github.com/melefabrizio)|
 
 ## License
 
