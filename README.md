@@ -3,8 +3,8 @@
 
 A darker version of the original Dracula theme for chrome by [Nick](https://github.com/nickimola).
 
-![Screenshot](./screenshot.png)
-![Incognito Mode Screenshot](./screenshot-incognito.png)
+![Screenshot](./screenshot.jpg)
+![Incognito Mode Screenshot](./screenshot-incognito.jpg)
 
 ## Install
 
